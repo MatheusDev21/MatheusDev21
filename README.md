@@ -3,13 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Mate" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Mate" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=Mate" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&username=Mate" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/4ExWdLKTCaz16/giphy.gif?cid=ecf05e47ttforbru21o2es6ijn8go4zymbwrnc4qom59w75y&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -48,7 +44,12 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="162" src="https://media4.giphy.com/media/4ExWdLKTCaz16/giphy.gif?cid=ecf05e47ttforbru21o2es6ijn8go4zymbwrnc4qom59w75y&rid=giphy.gif&ct=g"  />
 
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/Mate/count.svg?"  />
+</div>
 
 ###
